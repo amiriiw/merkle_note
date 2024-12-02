@@ -1,7 +1,7 @@
 
-# Secure Notepad
+# Merkle Note
 
-Secure Notepad is a lightweight GTK-based application for securely encrypting, decrypting, and saving textual data. The application uses AES-256-CBC encryption and integrates a Merkle root system for verifying the integrity of the stored data.
+Merkle Note is a lightweight GTK-based application for securely encrypting, decrypting, and saving textual data. The application uses AES-256-CBC encryption and integrates a Merkle root system for verifying the integrity of the stored data.
 
 ## Features
 
